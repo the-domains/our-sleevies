@@ -1,0 +1,28 @@
+name: OUR SLEEVIES
+favicon: null
+layout_spectrum: 0.10402260790579021
+typography_spectrum: 0.8015381372533739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3671547758858651
+  lightness: 0.0042014168575406075
+  saturation: 0.7789437610190362
+  rhythmicContrast: 0.4011917938478291
+purpose: []
